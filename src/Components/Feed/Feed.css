@@ -1,0 +1,25 @@
+.feed {
+    background-color: black;
+   
+}
+.feed-flex {
+    display: flex;
+        flex-direction: row;
+}
+@media( max-width:623px) {
+    .menudisable {
+        display: none;
+    }
+        .feed-flex {
+            display: flex;
+            flex-direction: column;
+        }
+}
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feed-color {
+    background-color: black;
+}

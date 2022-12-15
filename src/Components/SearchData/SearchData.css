@@ -1,0 +1,34 @@
+.myLink {
+    display: flex;
+    flex-direction: column;
+
+}
+.searchCard img {
+        width: 100%;
+            height: 261px;
+            object-fit: cover;
+}
+.myimage {
+    position: relative;
+}
+.title {
+    display: flex;
+    flex-direction: row;
+}
+.searchdetails {
+    display: flex;
+    flex-direction: column;
+}
+.chanel img {
+    width: 46px;
+        height: 44px;
+        border-radius: 50%;
+        object-fit: contain;
+}
+.myimage span {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding-inline: 4px;
+    border-radius: 3px;
+}

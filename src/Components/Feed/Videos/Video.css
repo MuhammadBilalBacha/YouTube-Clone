@@ -1,0 +1,21 @@
+.image img {
+    border-radius: 5px;
+}
+.image {
+    position: relative;
+}
+.image span {
+    position: absolute;
+    bottom: 15px;
+    right: 20px;
+    border-radius: 3px;
+}
+.video-title img {
+width: 25px;
+    border-radius: 50%;
+    margin-right: 9px;
+}
+.video-title span {
+    text-decoration: none;
+    border: 2px solid black;
+}
